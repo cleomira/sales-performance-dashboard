@@ -40,6 +40,9 @@ This page provides a high-level summary of business performance through:
 
  Key Insight
 - Sales demonstrated a strong upward trend over time, reaching peak performance in November 2018, indicating sustained business growth.
+<img width="622" height="350" alt="Product" src="https://github.com/user-attachments/assets/a1956b13-795a-4290-99ca-1864bd3ca583" />
+
+
 
 ---
 
