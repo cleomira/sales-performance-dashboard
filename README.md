@@ -8,7 +8,7 @@ The report was designed to provide actionable insights into revenue performance,
 
 ---
 
-🎯 Objectives
+🎯 **Objectives**
 The primary objectives of this project are to:
 
 - Monitor overall sales performance
@@ -27,7 +27,8 @@ The primary objectives of this project are to:
 ---
 
 📊 Dashboard Pages
-1. Executive Overview
+ 1. **Executive Overview**
+   
 This page provides a high-level summary of business performance through:
 - Total Sales
 - Total Orders
@@ -46,7 +47,7 @@ This page provides a high-level summary of business performance through:
 
 ---
 
-2. Geographic Analysis
+2. **Geographic Analysis**
 This section focuses on regional and state-level sales performance.
 
 Visuals Included
@@ -57,10 +58,13 @@ Visuals Included
 Key Insights
 - The West region generated the highest sales revenue, closely followed by the East region.
 - The South region recorded the lowest sales performance, indicating potential growth opportunities.
+  <img width="622" height="350" alt="Product" src="https://github.com/user-attachments/assets/724c7d1b-ce29-4ecc-8cbb-e5d25246e83c" />
+
 
 ---
 
-3. Product & Customer Analysis
+3. **Product & Customer Analysis**
+   
 This page analyzes product performance and customer behavior.
 
 Visuals Included
@@ -73,10 +77,12 @@ Visuals Included
 Key Insights
 - Technology emerged as the top-performing product category, contributing the largest share of total sales.
 - A small number of products and customers contributed significantly to overall revenue.
+  <img width="622" height="350" alt="Product" src="https://github.com/user-attachments/assets/214ccc67-e2ef-4ee2-b03d-8e699edb1abc" />
+
 
 ---
 
-✨ Features Implemented
+✨ **Features Implemented**
 - Interactive slicers and filters
 - Multi-page dashboard navigation
 - Dynamic KPI cards
@@ -87,7 +93,7 @@ Key Insights
 
 ---
 
-👥 Target Users
+👥 **Target Users**
 This dashboard is designed for:
 - Sales Managers
 - Business Executives
@@ -99,7 +105,7 @@ The solution enables stakeholders to monitor performance, identify trends, and s
 
 ---
 
-📈 Business Impact
+📈 **Business Impact**
 The dashboard helps organizations:
 - Improve sales monitoring and reporting
 - Identify high-performing regions and products
@@ -109,7 +115,7 @@ The dashboard helps organizations:
 
 ---
 
-🚀 Future Improvements
+🚀 **Future Improvements**
 Potential future enhancements include:
 - Sales forecasting and predictive analytics
 - Profitability analysis
@@ -119,7 +125,7 @@ Potential future enhancements include:
 
 ---
 
- 📂 Repository Contents
+ 📂 **Repository Contents**
 - Power BI dashboard file (`.pbix`)
 - Dataset (`.xlsx`)
 - Dashboard screenshots
@@ -127,7 +133,7 @@ Potential future enhancements include:
 
 ---
 
- 📬 Author
+ 📬 **Author**
 Ugwu Ngozi Cleopatra
 
 Built as part of a data analytics and business intelligence portfolio project us
